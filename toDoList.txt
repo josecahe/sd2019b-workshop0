@@ -1,0 +1,2 @@
+- Automatizar la clonacion del repo https://github.com/ICESI/so-microservices-python-part1
+- Automatizar la instalacion de Connexion
